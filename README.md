@@ -9,19 +9,19 @@ Anggota :
 
 ## 1. 
 WISE akan dijadikan sebagai DNS Master, Berlint akan dijadikan DNS Slave, dan Eden akan digunakan sebagai Web Server. Terdapat 2 Client yaitu SSS, dan Garden. Semua node terhubung pada router Ostania, sehingga dapat mengakses internet (1).
-![Alt text](/image/Jarkom2-1.png)
+![Alt text](/images/no1.png)
 
 ## 2.
 Untuk mempermudah mendapatkan informasi mengenai misi dari Handler, bantulah Loid membuat website utama dengan akses wise.yyy.com dengan alias www.wise.yyy.com pada folder wise (2).
-![Alt text](/image/Jarkom2-2.png)
+![Alt text](/images/no2.png)
 
 ## 3. 
 Setelah itu ia juga ingin membuat subdomain eden.wise.yyy.com dengan alias www.eden.wise.yyy.com yang diatur DNS-nya di WISE dan mengarah ke Eden (3).
-![Alt text](/image/Jarkom2-3.png)
+![Alt text](/images/no3.png)
 
 ## 4.
 Buat juga reverse domain untuk domain utama (4).
-![Alt text](/image/Jarkom2-4.png)
+![Alt text](/images/no4.png)
 
 ## 5.
 Agar dapat tetap dihubungi jika server WISE bermasalah, buatlah juga Berlint sebagai DNS Slave untuk domain utama (5).

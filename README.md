@@ -41,7 +41,7 @@ Untuk informasi yang lebih spesifik mengenai Operation Strix, buatlah subdomain 
 
 ## 8.
 Setelah melakukan konfigurasi server, maka dilakukan konfigurasi Webserver. Pertama dengan webserver www.wise.yyy.com. Pertama, Loid membutuhkan webserver dengan DocumentRoot pada /var/www/wise.yyy.com (8).
-![Alt text](/image/Jarkom2-8.png)
+![Alt text](/image/Jarkom2-8a.png)
 
 ## 9.
 Setelah itu, Loid juga membutuhkan agar url www.wise.yyy.com/index.php/home dapat menjadi menjadi www.wise.yyy.com/home (9).

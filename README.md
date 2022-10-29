@@ -9,6 +9,8 @@ Anggota :
 
 ## 1. 
 WISE akan dijadikan sebagai DNS Master, Berlint akan dijadikan DNS Slave, dan Eden akan digunakan sebagai Web Server. Terdapat 2 Client yaitu SSS, dan Garden. Semua node terhubung pada router Ostania, sehingga dapat mengakses internet (1).
+
+Wise lakukan nano /etc/bind/named.conf.local untuk mengedit
 ![Alt text](/images/no1.png)
 
 ## 2.
